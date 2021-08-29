@@ -1,0 +1,42 @@
+.el-menu-item:hover,.el-submenu__title:hover {
+    /*background-color: rgb(28,35,39) !important;*/
+    /*color: #409EFF !important;*/
+}
+
+.notice-list .el-checkbox__inner{
+    height:20px;width:20px
+}
+.notice-list .el-checkbox__inner::after{
+    height:12px;
+    left:7px
+}
+
+.notice-list .el-textarea__inner{
+    border:none;
+    padding:0;margin:0;
+    resize: none;
+}
+
+.notice-list .el-divider{
+    margin: 0;
+    display:flex
+}
+.notice-list .el-checkbox__input.is-checked .el-checkbox__inner{
+    background-color: #DCDFE6 ;
+    border-color: #DCDFE6
+}
+
+.el-main{
+    padding:0;
+    display: flex;
+    justify-content: center;
+
+}
+
+.md-title .el-input__inner{
+    height:60px
+}
+
+.el-collapse-item__arrow.is-active{
+    display:none
+}

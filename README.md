@@ -2,7 +2,8 @@
 ### 后端代码：back
     后端开发语言：python3.6
     数据库：mysql5.7.17
-    启动命令：python back/main.py
+    切换到back目录：cd back
+    启动命令：python main.py
     包依赖文件：requirements.txt
     数据库脚本：back/paper1.sql
 
